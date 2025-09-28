@@ -57,12 +57,12 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📦 Nombre del Proyecto 1</h4>
+      <h4> Nombre del Proyecto 1</h4>
       <p>Descripción concisa del proyecto. ¿Qué problema resuelve? ¿Cuál fue tu rol? Es una app web para X, Y, Z.</p>
       <a href="[URL_REPOSITORIO_1]" target="_blank">Ver Código</a> | <a href="[URL_DEMO_1]" target="_blank">Demo en Vivo</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🛒 Nombre del Proyecto 2</h4>
+      <h4> Nombre del Proyecto 2</h4>
       <p>Descripción concisa del proyecto. ¿Qué problema resuelve? ¿Cuál fue tu rol? Es una API RESTful para A, B, C.</p>
       <a href="[URL_REPOSITORIO_2]" target="_blank">Ver Código</a> | <a href="[URL_DEMO_2]" target="_blank">Demo en Vivo</a>
     </td>
