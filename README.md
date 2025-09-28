@@ -2,9 +2,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">¡Hola a todos! Soy Emiliano Olivos 👋</h1>
+<h1 align="center">¡Hola! Soy Emiliano Olivos </h1>
 <p align="center">
-  Un estudiante en Ing de Ciencias de la Computacion apasionado por el desarrollo de aplicaciones web 🚀 de [Puebla, Pue] <br /> 
+  Un estudiante en Ing de Ciencias de la Computacion apasionado por el desarrollo de aplicaciones web de [Puebla, Pue] <br /> 
   Bienvenido/a a mi pagina principal donde muestro algunos de mis proyectos
 </p>
 
@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>👨‍💻 Sobre Mí</h3>
+      <h3> Sobre Mí</h3>
       <ul>
-        <li>🔭 Actualmente estoy inmerso en un proyecto con <strong>Node.js y TypeScript</strong>.</li>
-        <li>🌱 Ampliando mis conocimientos en <strong>Consumo de APIs y optimizacion</strong>.</li>
-        <li>👯 Busco colaborar en proyectos innovadores de <strong>codigo abierto</strong> que impacten a la comunidad.</li>
-        <li>💬 Pregúntame sobre cualquier cosa relacionada con <strong>JavaScript, React, Angular o desarrollo de aplicaciones web</strong>.</li>
-        <li>📫 Contáctame a través de mi <a href="mailto:olivosemiliano@gmail.com"><strong>email</strong></a> o por <a href="www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372"><strong>LinkedIn</strong></a>.</li>
-        <li>⚡ Dato curioso: Cuando no estoy programando, me encontrarás jugando  o intentando preparar la taza de café perfecta ☕.</li>
+        <li>Actualmente estoy inmerso en un proyecto con <strong>Node.js y TypeScript</strong>.</li>
+        <li> Ampliando mis conocimientos en <strong>Consumo de APIs y optimizacion</strong>.</li>
+        <li> Busco colaborar en proyectos innovadores de <strong>codigo abierto</strong> que impacten a la comunidad.</li>
+        <li> Pregúntame sobre cualquier cosa relacionada con <strong>JavaScript, React, Angular o desarrollo de aplicaciones web</strong>.</li>
+        <li> Contáctame a través de mi <a href="mailto:olivosemiliano@gmail.com"><strong>email</strong></a> o por <a href="www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372"><strong>LinkedIn</strong></a>.</li>
+        <li> Dato curioso: Cuando no estoy programando, me encontrarás jugando  o intentando preparar la taza de café perfecta ☕.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
-      <h3>🛠️ Mi Stack de Tecnologías</h3>
+      <h3> Mi Stack de Tecnologías</h3>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,ts,docker,aws,git&perline=4" alt="Mis Habilidades" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Mis Estadísticas y Actividad en GitHub
+###  Mis Estadísticas y Actividad en GitHub
 
 <details>
   <summary>Haz clic para ver mis estadísticas de GitHub</summary>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🚀 Mis Proyectos Destacados
+###  Mis Proyectos Destacados
 
 <table width="100%">
   <tr>
@@ -71,11 +71,11 @@
 
 ---
 
-### 🔄 Actividad Reciente
+###  Actividad Reciente
 
 ---
 
-### 🎧 Actualmente Escuchando en Spotify
+###  Actualmente Escuchando en Spotify
 
 <p align="center">
   <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=666" alt="Mi Spotify" width="400" />
@@ -83,7 +83,7 @@
 
 ---
 
-### 🌐 Conecta Conmigo
+###  Conecta Conmigo
 
 <p align="center">
   <a href="https://linkedin.com/in/[TU_USUARIO_LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
