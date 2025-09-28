@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RyeXNoZ2Z3a3k1ZWQ3dTZjYW1zbm50NWY1dGg3N2o0NHRtbXA0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2e/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)" width="600" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">¡Hola a todos! Soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola a todos! Soy Emiliano Olivos 👋</h1>
 <p align="center">
   Un estudiante en Ing de Ciencias de la Computacion apasionado por el desarrollo de aplicaciones web 🚀 de [Puebla, Pue] <br /> 
   Bienvenido/a a mi pagina principal donde muestro algunos de mis proyectos
