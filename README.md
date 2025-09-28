@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RyeXNoZ2Z3a3k1ZWQ3dTZjYW1zbm50NWY1dGg3N2o0NHRtbXA0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2e/giphy.gif" width="600" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RyeXNoZ2Z3a3k1ZWQ3dTZjYW1zbm50NWY1dGg3N2o0NHRtbXA0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2e/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)" width="600" />
 </p>
 
 <h1 align="center">¡Hola a todos! Soy [Tu Nombre] 👋</h1>
 <p align="center">
-  Un apasionado Desarrollador de Software 🚀 de [Tu Ciudad, País] transformando ideas en código. <br /> 
-  Bienvenido/a a mi rincón digital donde la creatividad y la tecnología se encuentran.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO]&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil" />
+  Un estudiante en Ing de Ciencias de la Computacion apasionado por el desarrollo de aplicaciones web 🚀 de [Puebla, Pue] <br /> 
+  Bienvenido/a a mi pagina principal donde muestro algunos de mis proyectos
 </p>
 
 ---
@@ -19,12 +15,12 @@
     <td valign="top" width="60%">
       <h3>👨‍💻 Sobre Mí</h3>
       <ul>
-        <li>🔭 Actualmente estoy inmerso en un proyecto con <strong>Next.js y TypeScript</strong>.</li>
-        <li>🌱 Ampliando mis conocimientos en <strong>Arquitectura de Microservicios y AWS</strong>.</li>
-        <li>👯 Busco colaborar en proyectos innovadores de <strong>código abierto</strong> que impacten a la comunidad.</li>
-        <li>💬 Pregúntame sobre cualquier cosa relacionada con <strong>JavaScript, React o desarrollo backend</strong>.</li>
-        <li>📫 Contáctame a través de mi <a href="mailto:tu_email@example.com"><strong>email</strong></a> o por <a href="https://linkedin.com/in/[TU_USUARIO_LINKEDIN]"><strong>LinkedIn</strong></a>.</li>
-        <li>⚡ Dato curioso: Cuando no estoy programando, me encontrarás explorando rutas de senderismo 🌲 o intentando preparar la taza de café perfecta ☕.</li>
+        <li>🔭 Actualmente estoy inmerso en un proyecto con <strong>Node.js y TypeScript</strong>.</li>
+        <li>🌱 Ampliando mis conocimientos en <strong>Consumo de APIs y optimizacion</strong>.</li>
+        <li>👯 Busco colaborar en proyectos innovadores de <strong>codigo abierto</strong> que impacten a la comunidad.</li>
+        <li>💬 Pregúntame sobre cualquier cosa relacionada con <strong>JavaScript, React, Angular o desarrollo de aplicaciones web</strong>.</li>
+        <li>📫 Contáctame a través de mi <a href="mailto:olivosemiliano@gmail.com"><strong>email</strong></a> o por <a href="www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372"><strong>LinkedIn</strong></a>.</li>
+        <li>⚡ Dato curioso: Cuando no estoy programando, me encontrarás jugando  o intentando preparar la taza de café perfecta ☕.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
