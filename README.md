@@ -1,21 +1,12 @@
 <p align="center">
-
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" />
-
 </p>
-
-
 
 <h1 align="center">¡Hola, soy Emiliano Olivos!</h1>
-
 <p align="center">
-
   Un estudiante de Ingeniería en Ciencias de la Computación apasionado por el desarrollo web desde Puebla, México. 🇲🇽 <br />
-
   Bienvenido/a a mi perfil, donde comparto mi viaje en el mundo del código y algunos de mis proyectos.
-
 </p>
-
 
 
 ---
@@ -25,9 +16,7 @@
 <table>
 
   <tr>
-
     <td valign="top" width="60%">
-
       <h3>
 
         <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
@@ -37,47 +26,26 @@
       </h3>
 
       <ul>
-
         <li> Actualmente estoy inmerso en proyectos con <strong>Node.js y TypeScript</strong>.</li>
-
         <li> Ampliando mis conocimientos en <strong>consumo de APIs y optimización de rendimiento</strong>.</li>
-
         <li> Busco colaborar en proyectos innovadores de <strong>código abierto</strong> que impacten a la comunidad.</li>
-
         <li> Pregúntame sobre <strong>JavaScript, React, Angular</strong> o cualquier tema de desarrollo web.</li>
-
         <li> Contáctame a través de mi <a href="mailto:olivosemiliano@gmail.com"><strong>email</strong></a> o por <a href="https://www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372"><strong>LinkedIn</strong></a>.</li>
-
       </ul>
-
     </td>
-
     <td valign="top" width="40%">
-
       <h3>
-
       <img src="https://media.giphy.com/media/1iLzHqmJmN3eE/giphy.gif" width="50px">
-
       &nbsp;Mi Stack de Tecnologías
-
       </h3>
-
       <p align="center">
-
         <a href="https://skillicons.dev">
-
           <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,angular,python,django,c,git,docker,postman,vscode,gulp,nodejs&perline=4" alt="Mis Habilidades" />
-
         </a>
-
       </p>
-
     </td>
-
   </tr>
-
 </table>
-
 
 
 ---
@@ -86,72 +54,29 @@
 
 ###  Mis Estadísticas y Actividad en GitHub
 
-
-
-
-
-
-
 <details>
-
-
-
   <summary>Haz clic para ver mis estadísticas de GitHub</summary>
-
-
-
   <p align="center">
-
-
-
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0l1vos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-
 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1vos&layout=compact&langs_count=8&theme=tokyonight"/>
 
-
-
   </p>
-
-
-
 </details>
 
-
-
-
-
-
-
 <p align="center">
-
-
-
   <img src="https://github.com/Platane/platane/blob/output/github-contribution-grid-snake.svg" alt="Animación de Serpiente de Contribuciones"/>
-
-
-
 </p>
-
-
-
 
 
 
 
 ---
 
-
-
 ###  Mis Proyectos Destacados
 
-
-
 <table width="100%">
-
   <tr>
-
     <td width="50%" valign="top">
 
       <h4>Pokédex en Angular</h4>
@@ -223,8 +148,6 @@
 
 
 ###  Conecta Conmigo
-
-
 
 <p align="center">
 
