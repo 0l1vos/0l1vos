@@ -73,26 +73,26 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Pokédex en Angular</h4>
-      <p>Aplicación web interactiva que consume la <strong>PokeAPI</strong> para mostrar información detallada de los Pokémon. Permite buscar, filtrar y ver estadísticas de cada criatura.</p>
-      <a href="https://github.com/0l1vos/Pokedex-con-Angular" target="_blank">Ver Código</a>
+      <h4>Aplicacion web Ecommerce</h4>
+      <p>Ecommerce funcional, en la cual mediante mi emprendimiento y la aplicacion gestiono los pedidos y muestro el catalogo disponible</p>
+      <a href="https://elyscent-mx.netlify.app/"target="_blank">Ver Pagina</a>
     </td>
     <td width="50%" valign="top">
-      <h4>App de Películas con React</h4>
-      <p>Plataforma para explorar películas populares y buscar títulos, utilizando la API de <strong>The Movie Database (TMDB)</strong>. Implementa hooks de React para la gestión del estado.</p>
-      <a href="https://github.com/0l1vos/React-Peliculas-App" target="_blank">Ver Código</a>
+      <h4>Entrenamiendo de un modelo para la deteccion de señales de trafico</h4>
+      <p>Mediante el entrenamiento CNN se desarrollo que se logre detectar las diferentes señales de trafico que existen.</p>
+      <a href="https://github.com/0l1vos/Modelo_CNN_ProcImgs" target="_blank">Ver Código</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Backend de Autenticación con JWT</h4>
-      <p>API RESTful construida con <strong>Node.js, Express y MongoDB</strong> para gestionar el registro y login de usuarios, utilizando JSON Web Tokens (JWT) para la seguridad de las rutas.</p>
-      <a href="https://github.com/0l1vos/Login-con-NodeJS-y-JWT" target="_blank">Ver Código</a>
+      <h4>Aplicacion web Ecommerce con sistema de registros y pasarela de pagos simulada</h4>
+      <p>Se implemento con una base de datos existente y en un host, en el cual se puede logear y simular un pedido</p>
+      <a href="https://elestadodemaximacoherencia.com/proyecto/html/index.html" target="_blank">Ver Pagina</a>
     </td>
     <td width="50%" valign="top">
-      <h4>Frontend para Login JWT en Angular</h4>
-      <p>Interfaz de usuario desarrollada en <strong>Angular</strong> que se conecta con un backend para permitir el registro y acceso de usuarios, gestionando los tokens de sesión.</p>
-      <a href="https://github.com/0l1vos/Frontend-con-Angular-JWT" target="_blank">Ver Código</a>
+      <h4>Aplicacion web que gestiona eventos y asistentes, con login y roles asignados</h4>
+      <p>Se puso en practica el almacenamiento de LocalStorage para la gestion de los eventos</p>
+      <a href="https://github.com/0l1vos/Aplicacion_web" target="_blank">Ver Código</a>
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@
 
 ---
 
-### Conecta Conmigo
+### Contactame
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
