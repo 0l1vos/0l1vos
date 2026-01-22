@@ -99,14 +99,6 @@
 
 ---
 
-### Actualmente Escuchando en Spotify
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=666" alt="Mi Spotify" width="400" />
-</p>
-
----
-
 ### Contactame
 
 <p align="center">
