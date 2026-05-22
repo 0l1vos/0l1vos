@@ -19,8 +19,10 @@
         &nbsp;Sobre Mí
       </h3>
       <ul>
-        <li>Actualmente estoy inmerso en proyectos con <strong>Node.js y TypeScript</strong>.</li>
-        <li>Ampliando mis conocimientos en <strong>consumo de APIs y optimización de rendimiento</strong>.</li>
+        <li>Actualmente soy Technical Intern en <strong>PolyWorks México</strong>. 🚀</li>
+        <li>Estoy inmerso en proyectos full-stack utilizando <strong>Angular, Node.js y TypeScript</strong>.</li>
+        <li>Ampliando mis conocimientos en consumo de APIs, optimización de rendimiento y el ecosistema <strong>.NET / C#</strong>.</li>
+        <li>Trabajo con flujos y herramientas ágiles como <strong>Jira y Bitbucket</strong>.</li>
         <li>Busco colaborar en proyectos innovadores de <strong>código abierto</strong> que impacten a la comunidad.</li>
         <li>Pregúntame sobre <strong>JavaScript, React, Angular</strong> o cualquier tema de desarrollo web.</li>
         <li>Contáctame a través de mi <a href="mailto:olivosemiliano@gmail.com"><strong>email</strong></a> o por <a href="https://www.linkedin.com/in/emiliano-olivos-beltran-55a9ba372"><strong>LinkedIn</strong></a>.</li>
@@ -33,7 +35,7 @@
       </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,scss,atlassian,c#,js,ts,react,angular,python,django,c,git,docker,postman,vscode,gulp,nodejs&perline=4" alt="Mis Habilidades" />
+          <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,angular,nodejs,python,django,cs,dotnet,c,git,github,bitbucket,jira,docker,postman,vscode&perline=5" alt="Mis Habilidades" />
         </a>
       </p>
     </td>
@@ -42,32 +44,22 @@
 
 ---
 
-###  Mis Estadísticas y Actividad en GitHub
-
-
+###  Mis Estadísticas y Actividad en GitHub
 
 <details>
-
-  <summary>Haz clic para ver mis estadísticas de GitHub</summary>
-
-  <p align="center">
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0l1vos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1vos&layout=compact&langs_count=8&theme=tokyonight"/>
-
-
-  </p>
-
+  <summary>Haz clic para ver mis estadísticas de GitHub</summary>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0l1vos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0l1vos&layout=compact&langs_count=8&theme=tokyonight"/>
+  </p>
 </details>
+
 <p align="center">
-
-  <img src="https://github.com/Platane/platane/blob/output/github-contribution-grid-snake.svg" alt="Animación de Serpiente de Contribuciones"/>
-
+  <img src="https://github.com/Platane/platane/blob/output/github-contribution-grid-snake.svg" alt="Animación de Serpiente de Contribuciones"/>
 </p>
 
-
 ---
+
 ### Mis Proyectos Destacados
 
 <table width="100%">
