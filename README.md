@@ -33,7 +33,7 @@
       </h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,scss,atlassian,jira,bitbucket,.NET,c#,js,ts,react,angular,python,django,c,git,docker,postman,vscode,gulp,nodejs&perline=4" alt="Mis Habilidades" />
+          <img src="https://skillicons.dev/icons?i=html,css,scss,atlassian,c#,js,ts,react,angular,python,django,c,git,docker,postman,vscode,gulp,nodejs&perline=4" alt="Mis Habilidades" />
         </a>
       </p>
     </td>
