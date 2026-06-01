@@ -19,7 +19,7 @@
         &nbsp;Sobre Mí
       </h3>
       <ul>
-        <li>Actualmente soy Software Developer Intern en <strong>PolyWorks México</strong>. 🚀</li>
+        <li>Actualmente soy Software Developer Intern en <strong>PolyWorks México</strong>. /li>
         <li>Estoy inmerso en proyectos full-stack utilizando <strong>Angular, Node.js y TypeScript</strong>.</li>
         <li>Ampliando mis conocimientos en consumo de APIs, optimización de rendimiento y el ecosistema <strong>.NET / C#</strong>.</li>
         <li>Trabajo con flujos y herramientas ágiles como <strong>Jira y Bitbucket</strong>.</li>
