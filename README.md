@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWluaGJtaWI3OHk5ajY2ZnEycjlqMng0eGJjZTBqNmlvMzV1dHRvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d0ZjNza2RkdHU5Nmp3cWlpcWNuY2JnazJ6aWg1dXNvaG14NGM0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYPWj8QHG7FAgpy/giphy.gif" width="600" />
 </p>
 
 <h1 align="center">¡Hola, soy Emiliano Olivos!</h1>
