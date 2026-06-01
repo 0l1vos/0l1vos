@@ -30,7 +30,7 @@
     </td>
     <td valign="top" width="40%">
       <h3>
-        <img src="https://media.giphy.com/media/1iLzHqmJmN3eE/giphy.gif" width="50px">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW93YXZ2MnpsbGN0b2s4dTJ6ZzVudzF4dmtoZG5pbnprZ3JnNzQxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="50px">
         &nbsp;Mi Stack de Tecnologías
       </h3>
       <p align="center">
