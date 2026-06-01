@@ -15,7 +15,7 @@
   <tr>
     <td valign="top" width="60%">
       <h3>
-        <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d0ZjNza2RkdHU5Nmp3cWlpcWNuY2JnazJ6aWg1dXNvaG14NGM0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYPWj8QHG7FAgpy/giphy.gif" width="50px">
         &nbsp;Sobre Mí
       </h3>
       <ul>
